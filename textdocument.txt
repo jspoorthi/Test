@@ -1,2 +1,2 @@
-Select * from prv
+Select * from abc
 test
